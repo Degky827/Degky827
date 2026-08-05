@@ -28,4 +28,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURNAME)
 
 ## 📫 Reach Me
-linkedin.com/in/desiye.dev · desalegnky827@gmail.com · https://modernize-portifo.vercel.app/
+https://www.linkedin.com/in/desiye-dev · desalegnky827@gmail.com · https://modernize-portifo.vercel.app/
