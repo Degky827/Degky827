@@ -1,0 +1,16 @@
+## Hi Desalegn 👋
+
+<!--
+**Degky827/Degky827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Askual Link Software Campany as an Internship
+- 🌱 I’m currently learning Fullstack Development
+- 👯 I’m looking to collaborate on Robotics and IOT
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
