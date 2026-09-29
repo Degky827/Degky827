@@ -5,8 +5,8 @@
 🌱 Currently deepening: Microservices · Docker · React · System Design
 
 ## 🛠 Tech Stack
-**Languages:** JavaScript, TypeScript, SQL, Python  
-**Frontend:** React, Redux, React Query, TailwindCSS  
+**Languages:** JavaScript, TypeScript   
+**Frontend:** React.js,next.js Redux, React Query, TailwindCSS  
 **Backend:** Node.js, Express, Prisma, REST APIs, JWT  
 **Databases:** PostgreSQL, Redis,mongoDB  
 **DevOps:** Docker, Docker Compose, GitHub Actions, Swagger/OpenAPI  
