@@ -5,7 +5,7 @@
 🌱 Currently deepening: Microservices · Docker · React · System Design
 
 ## 🛠 Tech Stack
-**Languages:** JavaScript, TypeScript   
+**Languages:** JavaScript, TypeScript, PostgreSQL   
 **Frontend:** React.js,next.js Redux, React Query, TailwindCSS  
 **Backend:** Node.js, Express, Prisma, REST APIs, JWT  
 **Databases:** PostgreSQL, Redis,mongoDB  
@@ -24,16 +24,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Degky827&show_icons=true&theme=radical" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Degky827&theme=radical" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Degky827&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+- **Primary Stack:** JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Flutter
+- **Focus Areas:** Full-Stack Web Development, Mobile Apps, AI Integrations
+- **Contributions:** Active developer building production-grade academic and eco-tourism platforms.
 ## 📫 Reach Me
 https://modernize-portifo.vercel.app/ · desalegnky827@gmail.com ·https://www.linkedin.com/in/desiye-dev
