@@ -24,11 +24,16 @@
 
 ## 📊 GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Degky827&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Degky827&show_icons=true&theme=radical" alt="Stats" />
+</p>
 
-[![Streak](https://github-readme-streak-stats.demolab.com/?user=Degky827)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=Degky827&theme=radical" alt="Streak" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Degky827&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Degky827&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 ## 📫 Reach Me
 https://modernize-portifo.vercel.app/ · desalegnky827@gmail.com ·https://www.linkedin.com/in/desiye-dev
