@@ -23,9 +23,9 @@
 - [Why I Chose Prisma](link)
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME)
-![Streak](https://streak-stats.demolab.com?user=YOURNAME)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURNAME)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Degky827&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak](https://github-readme-stats.vercel.app/api?username=Degky827)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Degky827&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Reach Me
-https://www.linkedin.com/in/desiye-dev · desalegnky827@gmail.com · https://modernize-portifo.vercel.app/
+https://modernize-portifo.vercel.app/ · desalegnky827@gmail.com ·https://www.linkedin.com/in/desiye-dev
