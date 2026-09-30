@@ -23,13 +23,16 @@
 - [Why I Chose Prisma](link)
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Degky827&show_icons=true&theme=radical" alt="Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Degky827" alt="Streak" />
-  <br/><br/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=Degky827&theme=radical" alt="Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Degky827&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
