@@ -46,7 +46,13 @@ A web application exploring real-time communication and database integration.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Degky827&theme=radical" alt="Desalegn's GitHub Contribution Streak" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=Degky827&theme=radical"
+      alt="Desalegn's GitHub Contribution Streak"
+      width="495"
+    />
+  </a>
 </p>
 
 <p align="center">
