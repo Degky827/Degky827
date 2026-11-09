@@ -54,12 +54,12 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="16%"><img src="https://api.iconify.design/lucide:shield-check.svg?color=%232dd4bf" height="40" alt="Security" /><br/><b>Security</b><br/><sub>JWT, auth flows,<br/>KYC systems</sub></td>
-    <td align="center" width="16%"><img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23a78bfa" height="40" alt="AI" /><br/><b>AI</b><br/><sub>AI-powered<br/>platforms</sub></td>
-    <td align="center" width="16%"><img src="https://api.iconify.design/lucide:boxes.svg?color=%23f59e0b" height="40" alt="Microservices" /><br/><b>Microservices</b><br/><sub>Gateway, queues,<br/>service design</sub></td>
-    <td align="center" width="16%"><img src="https://api.iconify.design/simple-icons:docker.svg?color=%232496ED" height="40" alt="Docker" /><br/><b>Docker</b><br/><sub>Containers &amp;<br/>Compose</sub></td>
-    <td align="center" width="16%"><img src="https://api.iconify.design/simple-icons:react.svg?color=%2361DAFB" height="40" alt="React" /><br/><b>React</b><br/><sub>Modern,<br/>responsive UIs</sub></td>
-    <td align="center" width="16%"><img src="https://api.iconify.design/lucide:network.svg?color=%2338bdf8" height="40" alt="System Design" /><br/><b>System Design</b><br/><sub>Scalable, clean<br/>architecture</sub></td>
+    <td align="center" width="16%"><img src="https://skillicons.dev/icons?i=auth0&theme=dark" height="48" alt="Security" /><br/><b>Security</b><br/><sub>JWT, auth flows,<br/>KYC systems</sub></td>
+    <td align="center" width="16%"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48" alt="AI" /><br/><b>AI</b><br/><sub>AI-powered<br/>platforms</sub></td>
+    <td align="center" width="16%"><img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" height="48" alt="Microservices" /><br/><b>Microservices</b><br/><sub>Gateway, queues,<br/>service design</sub></td>
+    <td align="center" width="16%"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" alt="Docker" /><br/><b>Docker</b><br/><sub>Containers &amp;<br/>Compose</sub></td>
+    <td align="center" width="16%"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="React" /><br/><b>React</b><br/><sub>Modern,<br/>responsive UIs</sub></td>
+    <td align="center" width="16%"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="48" alt="System Design" /><br/><b>System Design</b><br/><sub>Scalable, clean<br/>architecture</sub></td>
   </tr>
 </table>
 
