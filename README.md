@@ -54,7 +54,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="16%"><img src="https://skillicons.dev/icons?i=auth0&theme=dark" height="48" alt="Security" /><br/><b>Security</b><br/><sub>JWT, auth flows,<br/>KYC systems</sub></td>
+    <td align="center" width="16%"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="Security" /><br/><br/><b>Security</b><br/><sub>JWT, auth flows,<br/>KYC systems</sub></td>
     <td align="center" width="16%"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48" alt="AI" /><br/><b>AI</b><br/><sub>AI-powered<br/>platforms</sub></td>
     <td align="center" width="16%"><img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" height="48" alt="Microservices" /><br/><b>Microservices</b><br/><sub>Gateway, queues,<br/>service design</sub></td>
     <td align="center" width="16%"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" alt="Docker" /><br/><b>Docker</b><br/><sub>Containers &amp;<br/>Compose</sub></td>
