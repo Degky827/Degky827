@@ -24,18 +24,100 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2DD4BF&center=true&vCenter=true&width=650&lines=%3E+whoami;Software+Engineering+Intern+%7C+CS+Student;I+build+secure%2C+AI-powered%2C+scalable+software;%3E+status%3A+building+something+cool+%F0%9F%9A%80" alt="About typing" />
+
+</div>
+
 ```js
 const desalegn = {
   role: "Software Engineering Intern @ Askuala Link Software Company",
   education: "BSc Computer Science, Bahir Dar University (Class of 2026)",
+  location: "Ethiopia 🇪🇹",
   focus: ["Security", "AI", "Microservices", "Docker", "React", "System Design"],
   currentlyLearning: ["Event-driven architecture", "Scalable backend design"],
   funFact: "I turn coffee into REST APIs ☕ → 🔌",
   lookingFor: "Opportunities to build impactful, production-grade software 🚀",
+
+  philosophy() {
+    return "Clean, scalable, maintainable. Ship it, then make it better.";
+  },
+
+  build(idea) {
+    return coffee(idea).design().code().test().containerize().deploy();
+  },
 };
 ```
 
-I build AI-powered and secure full-stack web applications and love finding practical ways to bring modern technologies together into **clean, scalable, and maintainable** software.
+> 💬 *"I love finding practical ways to bring modern technologies together into* ***clean, scalable, and maintainable*** *software."*
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/💼%20Role-Software%20Engineering%20Intern-0d9488?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏢%20Company-Askuala%20Link-0e7490?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/🎓%20Education-Bahir%20Dar%20University-6366f1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📅%20Graduating-2026-f59e0b?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+### 🎯 My Focus Areas
+
+<table align="center">
+  <tr>
+    <td align="center" width="16%">🔐<br/><b>Security</b><br/><sub>JWT, auth flows,<br/>KYC systems</sub></td>
+    <td align="center" width="16%">🤖<br/><b>AI</b><br/><sub>AI-powered<br/>platforms</sub></td>
+    <td align="center" width="16%">🧩<br/><b>Microservices</b><br/><sub>Gateway, queues,<br/>service design</sub></td>
+    <td align="center" width="16%">🐳<br/><b>Docker</b><br/><sub>Containers &<br/>Compose</sub></td>
+    <td align="center" width="16%">⚛️<br/><b>React</b><br/><sub>Modern,<br/>responsive UIs</sub></td>
+    <td align="center" width="16%">🏗️<br/><b>System Design</b><br/><sub>Scalable, clean<br/>architecture</sub></td>
+  </tr>
+</table>
+
+### 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Event--Driven%20Architecture-in%20progress-f59e0b?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/Scalable%20Backend%20Design-in%20progress-0d9488?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+</div>
+
+### ☕ How I Work
+
+```mermaid
+flowchart LR
+    A[☕ Coffee] --> B[💡 Idea]
+    B --> C[✏️ Design]
+    C --> D[⌨️ Code]
+    D --> E[🔌 REST API]
+    E --> F[🐳 Docker]
+    F --> G[🚀 Production]
+    style A fill:#92400e,color:#fff,stroke:#f59e0b
+    style E fill:#0f766e,color:#fff,stroke:#2dd4bf
+    style G fill:#6d28d9,color:#fff,stroke:#a78bfa
+```
+
+### 🔭 What I'm Looking For
+
+<div align="center">
+
+| 🚀 Opportunities | 🤝 Collaboration | 📚 Growth |
+|:---:|:---:|:---:|
+| Build impactful, **production-grade** software | Open-source and team projects | Learn from real-world engineering challenges |
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=for-the-badge&logo=statuspage&logoColor=white" />
+
+</div>
 
 ---
 
@@ -82,49 +164,120 @@ I build AI-powered and secure full-stack web applications and love finding pract
 
 ## 🏗️ Featured Projects
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=8+projects+%7C+4+websites+%2B+3+apps;Microservices+%E2%80%A2+Mobile+%E2%80%A2+3D+%E2%80%A2+PWA" alt="Projects typing" />
+
+</div>
+
+### 🌐 Websites
+
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚦 Menged Transport Management System</h3>
-      <p>A transport management platform built with a <b>microservices-oriented architecture</b>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-      </p>
-      <a href="https://github.com/askualalink/menged_transport"><b>🔗 View Repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 Learning & Training Management System</h3>
-      <p>A web app built from multiple services that communicate through an <b>API Gateway</b> and <b>message queues</b>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/API%20Gateway-0d9488?style=flat-square" />
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-        <img src="https://img.shields.io/badge/Microservices-0f766e?style=flat-square" />
-      </p>
-      <a href="https://desiyedgrl.base44.app"><b>🌐 View Live Project →</b></a>
-    </td>
-  </tr>
+  <!-- ========== MENGED (flagship) ========== -->
   <tr>
     <td colspan="2" valign="top">
-      <h3>🌐 Full-Stack Lake Tana Management System</h3>
-      <p>A web application exploring <b>real-time communication</b> and database integration.</p>
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,100:b45309&height=140&section=header&text=🚦%20Menged%20Transport&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Transport%20Management%20System%20•%20Internship%20Project&descSize=15&descAlignY=60" width="100%" alt="Menged banner" />
       <p>
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Askuala%20Link-Internship-0e7490?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Team-3%20Developers-6366f1?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Not%20Deployed-64748b?style=for-the-badge" />
       </p>
-      <a href="https://lttms-98vb.vercel.app/"><b>🌐 View Live Project →</b></a>
+      <p>
+        A transport platform built by a <b>team of three</b> (Desalegn, Esubalew, Getacher) as part of my internship at the Askuala Link GitHub organization.
+      </p>
+      <p>
+        <b>⚙️ 7 Microservices:</b> <code>API Gateway</code> · <code>Auth</code> · <code>Verification</code> · <code>Notification</code> · <code>Payment</code> · <code>Traffic</code> · <code>License</code><br/>
+        <b>📱 2 Mobile Apps:</b> Traffic · Driver<br/>
+        <b>🖥️ 4 Portals:</b> Admin · Traffic · Driver · Staff
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=flutter,react,express,postgres,docker&theme=dark" alt="Menged stack" />
+      </p>
+      <a href="https://github.com/askualalink/menged_transport"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+    </td>
+  </tr>
+
+  <!-- ========== DBS + LTTMS ========== -->
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:2dd4bf&height=120&section=header&text=🏦%20DBS&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Digital%20Banking%20System&descSize=15&descAlignY=62" width="100%" alt="DBS banner" />
+      <p>
+        <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-4%20Microservices-0d9488?style=flat-square" />
+      </p>
+      <p>A digital banking platform split into <b>4 microservices</b>: <code>Auth</code>, <code>KYC</code>, <code>User</code> and <code>Notification</code>.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,express,postgres&theme=dark" alt="DBS stack" />
+      </p>
+      <a href="https://dbs-demo.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-0d9488?style=for-the-badge&logo=render&logoColor=white" alt="Live" /></a>
+      <a href="https://github.com/Degky827/DBS"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:38bdf8&height=120&section=header&text=🌊%20LTTMS&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Lake%20Tana%20Management%20System&descSize=15&descAlignY=62" width="100%" alt="LTTMS banner" />
+      <p>
+        <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-Layered%20Backend-1d4ed8?style=flat-square" />
+      </p>
+      <p>A full-stack management system built on a clean <b>layered backend</b> architecture.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,express,mongodb&theme=dark" alt="LTTMS stack" />
+      </p>
+      <a href="https://lttms-98vb.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-1d4ed8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
+      <a href="https://github.com/Degky827/LTTMS"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+  </tr>
+
+  <!-- ========== PORTFOLIO ========== -->
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:ec4899&height=120&section=header&text=🧊%203D%20Portfolio&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Interactive%20Full-Stack%20Portfolio&descSize=15&descAlignY=62" width="100%" alt="Portfolio banner" />
+      <p>
+        <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Style-3D%20Experience-7c3aed?style=flat-square" />
+      </p>
+      <p>A <b>3D-based full-stack portfolio</b> that showcases my work in an immersive, interactive way.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,express,mongodb&theme=dark" alt="Portfolio stack" />
+      </p>
+      <a href="https://modernize-portifo.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
+      <a href="https://github.com/Degky827/Portfolio"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+  </tr>
+</table>
+
+### 📱 Apps
+
+<table>
+  <tr>
+    <!-- DGRL -->
+    <td width="33%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:22d3ee&height=110&section=header&text=🔐%20DGRL&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Digital%20Grade%20Report%20Locker&descSize=12&descAlignY=64" width="100%" alt="DGRL banner" />
+      <p>A secure app for storing and accessing <b>student grade reports</b> digitally.</p>
+      <p><img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="DGRL stack" /></p>
+      <a href="https://desiyedgrl.base44.app"><img src="https://img.shields.io/badge/Live-0284c7?style=flat-square" alt="Live" /></a>
+      <a href="https://github.com/Degky827/DGRL"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code" /></a>
+    </td>
+    <!-- ALGO -->
+    <td width="33%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:a3e635&height=110&section=header&text=🧠%20Algo%20App&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=3D%20Algorithm%20Visualizer&descSize=13&descAlignY=64" width="100%" alt="Algo banner" />
+      <p>A lightweight, educational <b>WebGL</b> app that visualizes sorting, searching and data structures in 3D.</p>
+      <p><img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Algo stack" /></p>
+      <a href="https://degky827.github.io/Algo_App/"><img src="https://img.shields.io/badge/Live-16a34a?style=flat-square" alt="Live" /></a>
+      <a href="https://github.com/Degky827/Algo_App"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code" /></a>
+    </td>
+    <!-- CALCULATOR -->
+    <td width="33%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:fb923c&height=110&section=header&text=🧮%20Sci-Calc&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=Scientific%20Calculator%20PWA&descSize=13&descAlignY=64" width="100%" alt="Calculator banner" />
+      <p>An advanced <b>PWA</b> with binomial theorem calculations and interactive graphing.</p>
+      <p><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Calculator stack" /></p>
+      <a href="https://degky827.github.io/scientific-calculator/"><img src="https://img.shields.io/badge/Live-dc2626?style=flat-square" alt="Live" /></a>
+      <a href="https://github.com/Degky827/scientific-calculator"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code" /></a>
     </td>
   </tr>
 </table>
 
 ---
-
 ## 🧭 What I'm Focused On
 
 | 🔭 Now | 🌱 Learning | 🎯 Goal |
