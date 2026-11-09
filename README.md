@@ -144,7 +144,7 @@ flowchart LR
 
 ---
 
-## <img src="https://api.iconify.design/lucide:rocket.svg?color=%232dd4bf" height="28" align="absmiddle" alt="" /> Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -152,13 +152,14 @@ flowchart LR
 
 </div>
 
-### <img src="https://api.iconify.design/lucide:globe.svg?color=%232dd4bf" height="22" align="absmiddle" alt="" /> Websites
+### Websites
 
 <table>
   <!-- ========== MENGED (flagship) ========== -->
   <tr>
     <td colspan="2" valign="top">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,100:b45309&height=140&section=header&text=Menged%20Transport&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Transport%20Management%20System%20%E2%80%A2%20Internship%20Project&descSize=15&descAlignY=60" width="100%" alt="Menged banner" />
+      <p align="center"><img src="./assets/logos/menged.svg" height="80" alt="Menged logo" /></p>
       <p>
         <img src="https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=for-the-badge&logo=githubactions&logoColor=white" alt="In progress" />
         <img src="https://img.shields.io/badge/Askuala%20Link-Internship-0e7490?style=for-the-badge&logo=rocket&logoColor=white" alt="Internship" />
@@ -169,9 +170,9 @@ flowchart LR
         A transport platform built by a <b>team of three</b> (Desalegn, Esubalew, Getacher) as part of my internship at the Askuala Link GitHub organization.
       </p>
       <p>
-        <img src="https://api.iconify.design/lucide:boxes.svg?color=%23f59e0b" height="18" align="absmiddle" alt="" /> <b>7 Microservices:</b> <code>API Gateway</code> &middot; <code>Auth</code> &middot; <code>Verification</code> &middot; <code>Notification</code> &middot; <code>Payment</code> &middot; <code>Traffic</code> &middot; <code>License</code><br/>
-        <img src="https://api.iconify.design/lucide:smartphone.svg?color=%232dd4bf" height="18" align="absmiddle" alt="" /> <b>2 Mobile Apps:</b> Traffic &middot; Driver<br/>
-        <img src="https://api.iconify.design/lucide:monitor.svg?color=%2338bdf8" height="18" align="absmiddle" alt="" /> <b>4 Portals:</b> Admin &middot; Traffic &middot; Driver &middot; Staff
+        <b>7 Microservices:</b> <code>API Gateway</code> &middot; <code>Auth</code> &middot; <code>Verification</code> &middot; <code>Notification</code> &middot; <code>Payment</code> &middot; <code>Traffic</code> &middot; <code>License</code><br/>
+        <b>2 Mobile Apps:</b> Traffic &middot; Driver<br/>
+        <b>4 Portals:</b> Admin &middot; Traffic &middot; Driver &middot; Staff
       </p>
       <p>
         <img src="https://skillicons.dev/icons?i=flutter,react,express,postgres,prisma,redis,docker&theme=dark" alt="Menged stack" />
@@ -184,6 +185,7 @@ flowchart LR
   <tr>
     <td width="50%" valign="top">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:2dd4bf&height=120&section=header&text=DBS&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Digital%20Banking%20System&descSize=15&descAlignY=62" width="100%" alt="DBS banner" />
+      <p align="center"><img src="./assets/logos/dbs.svg" height="80" alt="DBS logo" /></p>
       <p>
         <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Live" />
         <img src="https://img.shields.io/badge/Architecture-4%20Microservices-0d9488?style=flat-square" alt="4 microservices" />
@@ -197,6 +199,7 @@ flowchart LR
     </td>
     <td width="50%" valign="top">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:38bdf8&height=120&section=header&text=LTTMS&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Lake%20Tana%20Management%20System&descSize=15&descAlignY=62" width="100%" alt="LTTMS banner" />
+      <p align="center"><img src="./assets/logos/lttms.svg" height="80" alt="LTTMS logo" /></p>
       <p>
         <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Live" />
         <img src="https://img.shields.io/badge/Architecture-Layered%20Backend-1d4ed8?style=flat-square" alt="Layered backend" />
@@ -214,6 +217,7 @@ flowchart LR
   <tr>
     <td colspan="2" valign="top">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:ec4899&height=120&section=header&text=3D%20Portfolio&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Interactive%20Full-Stack%20Portfolio&descSize=15&descAlignY=62" width="100%" alt="Portfolio banner" />
+      <p align="center"><img src="./assets/logos/portfolio.svg" height="80" alt="Portfolio logo" /></p>
       <p>
         <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Live" />
         <img src="https://img.shields.io/badge/Style-3D%20Experience-7c3aed?style=flat-square&logo=threedotjs&logoColor=white" alt="3D experience" />
@@ -228,13 +232,14 @@ flowchart LR
   </tr>
 </table>
 
-### <img src="https://api.iconify.design/lucide:smartphone.svg?color=%232dd4bf" height="22" align="absmiddle" alt="" /> Apps
+### Apps
 
 <table>
   <tr>
     <!-- DGRL -->
     <td width="33%" valign="top">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:22d3ee&height=110&section=header&text=DGRL&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Digital%20Grade%20Report%20Locker&descSize=12&descAlignY=64" width="100%" alt="DGRL banner" />
+      <p align="center"><img src="./assets/logos/dgrl.svg" height="60" alt="DGRL logo" /></p>
       <p>A secure app for storing and accessing <b>student grade reports</b> digitally.</p>
       <p><img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="DGRL stack" /></p>
       <a href="https://desiyedgrl.base44.app"><img src="https://img.shields.io/badge/Live-0284c7?style=flat-square" alt="Live" /></a>
@@ -243,6 +248,7 @@ flowchart LR
     <!-- ALGO -->
     <td width="33%" valign="top">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:a3e635&height=110&section=header&text=Algo%20App&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=3D%20Algorithm%20Visualizer&descSize=13&descAlignY=64" width="100%" alt="Algo banner" />
+      <p align="center"><img src="./assets/logos/algo.svg" height="60" alt="Algo App logo" /></p>
       <p>A lightweight, educational <b>WebGL</b> app that visualizes sorting, searching and data structures in 3D.</p>
       <p><img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Algo stack" /></p>
       <a href="https://degky827.github.io/Algo_App/"><img src="https://img.shields.io/badge/Live-16a34a?style=flat-square" alt="Live" /></a>
@@ -251,6 +257,7 @@ flowchart LR
     <!-- CALCULATOR -->
     <td width="33%" valign="top">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:fb923c&height=110&section=header&text=Sci-Calc&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=Scientific%20Calculator%20PWA&descSize=13&descAlignY=64" width="100%" alt="Calculator banner" />
+      <p align="center"><img src="./assets/logos/calc.svg" height="60" alt="Sci-Calc logo" /></p>
       <p>An advanced <b>PWA</b> with binomial theorem calculations and interactive graphing.</p>
       <p><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Calculator stack" /></p>
       <a href="https://degky827.github.io/scientific-calculator/"><img src="https://img.shields.io/badge/Live-dc2626?style=flat-square" alt="Live" /></a>
